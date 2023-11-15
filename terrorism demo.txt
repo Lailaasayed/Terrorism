@@ -1,0 +1,52 @@
+Data Cleaning and preperations:
+- Remove Unused coloumns 
+- rename some coloumns
+- Remove Duplicates
+- add coloumn of century
+- Make measure "total attaks"
+
+-----------------
+Data Visulalizations:
+
+mesures:
+- total number of attakes
+- total success attakes
+- total number of kills
+- total number of groups
+
+filters:
+- Year
+- countery
+- rejon
+
+Graphs:
+- number of attaks or torrism over time "by century"
+- location of attakes in map 
+- which rejons attakes most 
+- total strike success by group
+- total kills by wippen type
+- total attaks by target type and weapons type 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
